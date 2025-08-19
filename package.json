@@ -1,0 +1,45 @@
+{
+  "name": "my-payment-platform",
+  "version": "1.0.0",
+  "description": "This is an online payment platform project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igberry/my-payment-platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Igberry/my-payment-platform/issues"
+  },
+  "homepage": "https://github.com/Igberry/my-payment-platform#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "mongoose": "^8.17.2",
+    "next": "^15.4.7",
+    "next-auth": "^4.24.11",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "zod": "^4.0.17"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.12",
+    "@types/node": "24.3.0",
+    "@types/react": "19.1.10",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.12",
+    "typescript": "5.9.2"
+  }
+}
