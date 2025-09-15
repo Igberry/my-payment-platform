@@ -1,4 +1,4 @@
-// File: C:\Users\user\OneDrive - BYU-Pathway Worldwide\Documents\my-payment-platform\app\api\auth\[...nextauth]\route.ts
+// File: C:\Users\david\Documents\my-payment-platform\app\api\auth\[...nextauth]\route.ts
 import * as entry from '../../../../../../app/api/auth/[...nextauth]/route.js'
 import type { NextRequest } from 'next/server.js'
 

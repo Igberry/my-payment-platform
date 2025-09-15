@@ -1,4 +1,4 @@
-// File: C:\Users\user\OneDrive - BYU-Pathway Worldwide\Documents\my-payment-platform\app\layout.tsx
+// File: C:\Users\david\Documents\my-payment-platform\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
